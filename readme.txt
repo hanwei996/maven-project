@@ -9,5 +9,9 @@ hehhe
 
 hehehheheheh
 
+<<<<<<< HEAD
 
 又是一个分支
+=======
+一个分支
+>>>>>>> feature
